@@ -1,7 +1,7 @@
-#General info
+## General info
 This project is a simple laravel api test
 
-#Setup
+## Setup
 
 To run this project, install it locally using composer:
 
@@ -13,13 +13,13 @@ php artisan serve
 ```
 The information is being saved in a text file which is located in storage/app/users.txt
 
-#Urls
+## Urls
 
 API ENDPOINTS: http://localhost:8000/api/users
 
 API DOCS: http://localhost:8000/api/doc
 
-#Contact
+## Contact
 
 Thiago Ganimi - tganimi@gmail.com
 
