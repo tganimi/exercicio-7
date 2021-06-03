@@ -1,5 +1,5 @@
 ## General info
-This project is a simple laravel api test
+This project is a simple laravel api test.
 
 ## Setup
 
